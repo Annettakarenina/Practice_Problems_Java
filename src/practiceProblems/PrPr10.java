@@ -11,5 +11,8 @@ public class PrPr10 {
 		System.out.println("Type in a character");
 		String input=user.nextLine();
 	}
+	public static void pro() {
+		
+	}
 
 }
